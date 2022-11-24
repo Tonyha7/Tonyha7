@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Tonyha7&show_icons=true&theme=cobalt)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyha7&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyha7&theme=cobalt&hide=Jupyter%20Notebook,Shell,Makefile&role=OWNER,ORGANIZATION_MEMBER)
 
 [![ASUS](https://img.shields.io/badge/ASUS-RT--AX55-000000)](https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/All-series/RT-AX55)
 
